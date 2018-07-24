@@ -8,7 +8,7 @@ def skip_step(left)
   puts "Lower, Bounce, Briefly"
 end
 
-def base_footwork(right)
+def base_footwork
   puts "Lift and return right their foot"
 end
 
