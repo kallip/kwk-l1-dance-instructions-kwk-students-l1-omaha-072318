@@ -19,3 +19,7 @@ puts "Cross"
 puts "Lift"
 puts "Do"
 end
+
+def lasso
+puts "lasso"
+end
