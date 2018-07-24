@@ -13,3 +13,6 @@ def base_footwork
   puts "Return right foot"
 end
 
+def bob_the_reins
+puts "Bob it out"
+end
