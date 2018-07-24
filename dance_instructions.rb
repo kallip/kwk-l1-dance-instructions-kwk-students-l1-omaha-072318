@@ -26,3 +26,7 @@ puts "Lift"
 puts "Raise"
 puts "Do"
 end
+
+def bust_a_move
+  puts "Be cool and be snazzy"
+end
