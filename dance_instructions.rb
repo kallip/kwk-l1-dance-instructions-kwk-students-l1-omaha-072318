@@ -15,4 +15,5 @@ end
 
 def bob_the_reins
 puts "Hold"
+puts "Cross"
 end
